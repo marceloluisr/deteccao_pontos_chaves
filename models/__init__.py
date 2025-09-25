@@ -1,1 +1,1 @@
-from u2net_components import *
+from .u2net_components import *
