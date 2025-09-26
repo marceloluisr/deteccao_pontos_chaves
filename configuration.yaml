@@ -2,7 +2,7 @@ colab: true
 dataset_path: "/content/drive/MyDrive/Colab Notebooks/SelecaoINOVIA/datasets"
 destination_path: '/content/unzipped_files'
 log_path: '/content/src/log'
-# opções disponíveis de regressores: DepthwiseSeparableConv1D, XGBoost
+# opções disponíveis de regressores: DepthwiseSeparableConv1D, XGBoost, Heuristic
 regressor_module_name:  XGBoost  
 # opções disponíveis de detectores de pontos chave: RTPose, BlazePose, Heuristic
 keypoint_module_name: RTPose
