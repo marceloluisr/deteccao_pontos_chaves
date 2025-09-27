@@ -1,0 +1,15 @@
+tqdm==4.67.1
+pandas==2.2.2
+numpy==1.26.4
+Pillow==11.3.0
+scikit-image==0.25.2
+torch==2.8.0+cu126
+torchvision==0.23.0+cu126
+scikit-learn==1.6.1
+joblib==1.5.2
+matplotlib==3.10.0
+opencv-python==4.11.0
+xgboost==3.0.5
+mediapipe==0.10.21
+rt-pose==0.0.3
+
